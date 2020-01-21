@@ -4,7 +4,7 @@
 [[ -f ~/.variablesrc ]] && source ~/.variablesrc
 
 # Path to your oh-my-zsh installation.
-export ZSH=/Users/Tyler/.oh-my-zsh
+export ZSH=/Users/ben/.oh-my-zsh
 
 # Set name of the theme to load.
 # Look in ~/.oh-my-zsh/themes/
@@ -52,7 +52,7 @@ export ZSH=/Users/Tyler/.oh-my-zsh
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git git-extras rails ruby brew osx)
+plugins=(git git-extras ruby brew osx)
 
 # User configuration
 

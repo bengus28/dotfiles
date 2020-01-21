@@ -7,8 +7,8 @@ alias .....="cd ../../../.."
 # Shortcuts
 alias dl="cd ~/Downloads"
 alias dt="cd ~/Desktop"
-alias code="cd ~/Code"
-alias projects="cd ~/Projects"
+alias mosaic="cd ~/Development/Mosaic"
+alias development="cd ~/Development"
 
 
 # Detect which `ls` flavor is in use
